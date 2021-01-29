@@ -1,8 +1,5 @@
 # FizzBuzz
 A simple FizzBuzz REST API
-<<<<<<< HEAD
-=======
-
 
 
 This is a simple implementation of FizzBuzz in a REST API.
