@@ -1,5 +1,5 @@
 # FizzBuzz
-A simple FizzBuzz REST API
+
 
 
 This is a simple implementation of FizzBuzz in a REST API.
