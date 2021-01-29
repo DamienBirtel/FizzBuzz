@@ -68,4 +68,3 @@ So finally, here is an example of a custom POST request using curl:
 ```bash
 curl -d '{"length":15,"fizznum":3,"buzzword":"Toto"}' -X POST http://localhost:9090
 ```
->>>>>>> Create README.md
