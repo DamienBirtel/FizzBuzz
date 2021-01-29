@@ -2,9 +2,10 @@ package handlers
 
 import (
 	"fmt"
-	"homework/fizzbuzz/lib"
 	"net/http"
 	"os"
+
+	"github.com/DamienBirtel/FizzBuzz/lib"
 )
 
 // FizzBuzzHandler is a http.Handler

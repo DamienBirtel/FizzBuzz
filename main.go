@@ -2,12 +2,13 @@ package main
 
 import (
 	"context"
-	"homework/fizzbuzz/handlers"
 	"log"
 	"net/http"
 	"os"
 	"os/signal"
 	"time"
+
+	"github.com/DamienBirtel/FizzBuzz/handlers"
 )
 
 // these could be taken from environment variables, but this will do for now
