@@ -8,6 +8,10 @@ A simple FizzBuzz REST API
 This is a simple implementation of FizzBuzz in a REST API.
 
 I chose REST to build it because it is widely known and well understood by the large majority of programmers.
+So it can be easy and frictionless to integrate to a bigger system of services and APIs.
+
+This project is production ready in the sense that it will do what's expected of it, is easy to read and understand,
+and also easy to modify.
 
 
 ## Installation
